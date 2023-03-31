@@ -1,0 +1,4 @@
+C:\Users\55119\Desktop\random stuff\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.SuggestedBindingRedirects.cache
+C:\Users\55119\Desktop\random stuff\WorldCities\WorldCities\obj\Debug\WorldCities.esproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\random stuff\ASP.NET-Core-6-e-Angular\WorldCities\ASP.NET-Core-6-e-Angular\WorldCities\obj\Debug\WorldCities.esproj.SuggestedBindingRedirects.cache
+C:\Users\55119\Desktop\random stuff\ASP.NET-Core-6-e-Angular\WorldCities\ASP.NET-Core-6-e-Angular\WorldCities\obj\Debug\WorldCities.esproj.CoreCompileInputs.cache
